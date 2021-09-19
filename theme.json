@@ -1,0 +1,18 @@
+{
+    "doctype":"theme",
+
+    "border":{
+        "close":{
+            "hoverbg":"#555",
+            "hoverfg":"#ff9999"
+        },
+        "minimize":{
+            "hoverbg":"#555",
+            "hoverfg":"#ff9999"
+        },
+        "maximize":{
+            "hoverbg":"#555",
+            "hoverfg":"#ff9999"
+        }
+    }
+}
